@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="WorldConfigs" />
+		<Description value="XML Configs based on World Name" />
+		<Author value="Justin 'Chromecide' Pradier" />
+		<Version value="1" />
+		<Website value="https://github.com/7DaysToMod/WorldConfigs" />
+	</ModInfo>
+</xml>
